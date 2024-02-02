@@ -1,3 +1,3 @@
 # microbiome-analysis
-this repository contains synthetic datasets encompassing stool, biopsy and saliva samples belonging to adenoumatous polyps (AP) and colorectal cancer (CRC) patients that were used for Xgboost classification and Shap analysis. the taxon extracted from the original OTU table and that in common with our referenced article are also present.
+This repository encompasses synthetic datasets, including stool, biopsy, and saliva samples from adenomatous polyps (AP) and colorectal cancer (CRC) patients. These datasets were utilized for XGBoost classification and SHAP analysis. The taxon information extracted from the original OTU table, as well as that aligned with our referenced article, is provided. Additionally, all Jupyter Notebook (ipynb) files containing the analysis scripts are included.
 
